@@ -64,9 +64,3 @@ The goal of this task is to summarize large datasets, identify performance trend
 
 ---
 
-## 📤 Submission
-This repository is created as part of **Task 2 submission** for the Data Analyst Internship.
-
----
-
-✅ *Task completed following all given guidelines.*
